@@ -1,0 +1,802 @@
+{
+  "nav": {
+    "vision": "The Vision",
+    "growth": "Wildfire Growth",
+    "communities": "Communities",
+    "architecture": "Architecture",
+    "howItWorks": "How it works?",
+    "enterMtb": "Enter MTB",
+    "enterDashboard": "Enter Dashboard",
+    "howItWorksItems": {
+      "economicCells": "Distributed Economic cells System",
+      "communityTrading": "Your own community trading network",
+      "payAnyShop": "Pay Any Shop",
+      "onlinePayment": "Online payment",
+      "developers": "Platform for African developers",
+      "bnpl": "Buy Now Pay Later",
+      "connectCommunities": "Connect communities",
+      "clearingHouses": "Automated Clearing Houses"
+    },
+    "switchToFrench": "Switch to Français",
+    "switchToEnglish": "Switch to English"
+  },
+  "hero": {
+    "badge": "Introducing the Magic Trade Box",
+    "title": "Reclaiming the Economics of Community",
+    "desc": "The Trade Box Eng. is your all-in-one platform for community economic sovereignty. Empowering families, diaspora networks, and cooperatives to thrive on their own terms.",
+    "launch": "Launch Your Economy",
+    "whitepaper": "Read Whitepaper"
+  },
+  "ecosystem": {
+    "badge": "Organic Growth Model",
+    "title": "A Human-Inspired Ecosystem That Grows Like Wildfire",
+    "desc": "This model works like the human body—every person or Business (or 'cell') can freely join or be invited to different organs (communities or networks). Just as cells support the heart, lungs, or other organs, people and Businesses in this system trade seamlessly based on common values.",
+    "noGatekeepers": {
+      "title": "No Gatekeepers",
+      "desc": "Like social media, anyone can join or invite others, removing friction. No central authority to slow down growth."
+    },
+    "networkEffects": {
+      "title": "Network Effects",
+      "desc": "The more people participate, the more valuable the ecosystem becomes (just like Facebook or WhatsApp)."
+    },
+    "selfSustaining": {
+      "title": "Self-Sustaining",
+      "desc": "Once critical mass is hit, growth accelerates organically as members recruit others, fueling a viral loop."
+    },
+    "modular": {
+      "title": "Modular & Scalable",
+      "desc": "New 'organs' (sub-communities) can form instantly, adapting to local demand and specific needs."
+    },
+    "incentivized": {
+      "title": "Incentivized Participation",
+      "desc": "People benefit by contributing (like cells in a body), fueling viral adoption and long-term sustainability."
+    },
+    "quote": "It's designed to spread—fast.",
+    "architecture": "Viral Community Architecture"
+  },
+  "features": {
+    "title": "The TBE Operating System",
+    "subtitle": "Explore the pillars of our community economic engine.",
+    "zeroCost": {
+      "title": "Zero-Cost Access",
+      "desc": "No fees to load, spend, or send. We remove the tax on community trade."
+    },
+    "supportBonus": {
+      "title": "Support Bonus",
+      "desc": "Earn social capital from every trade. Use it to fund community businesses."
+    },
+    "bnpl": {
+      "title": "BNPL Credit",
+      "desc": "0% interest credit based on community trust and trade history."
+    },
+    "interconnection": {
+      "title": "Interconnection",
+      "desc": "Seamlessly trade between different community networks with zero friction."
+    }
+  },
+  "landing": {
+    "techSpotlight": {
+      "title": "Tech Spotlight",
+      "desc": "Our platform is built on cutting-edge financial technology designed to solve the specific challenges of the African market. From biometric security to AI-driven risk assessment, we ensure every trade is secure and transparent.",
+      "biometrics": "Biometrics",
+      "biometricsDesc": "Facial and fingerprint verification for all high-value trades.",
+      "iot": "IoT Nodes",
+      "iotDesc": "Sensors track inventory and trigger payments automatically.",
+      "fraudProof": {
+        "title": "Fraud-Proof Trading",
+        "desc": "Advanced encryption and biometric multi-sig ensure your assets are always protected."
+      },
+      "aiRisk": {
+        "title": "AI Risk Engine",
+        "desc": "Our proprietary algorithms analyze community trade patterns to provide fair credit access."
+      }
+    },
+    "cta": {
+      "title": "Ready to Launch Your Economy?",
+      "desc": "Join thousands of communities already reclaiming their economic sovereignty with the Magic Trade Box."
+    },
+    "stats": {
+      "active": "Active Trade Nodes",
+      "groups": "Verified Communities",
+      "volume": "24h Trade Volume"
+    }
+  },
+  "dashboard": {
+    "overview": "Overview",
+    "overviewSub": "Manage your community assets and growth pools.",
+    "supportMarket": "Support Market",
+    "walletsCards": "Wallets & Cards",
+    "myNetworks": "My Networks",
+    "settings": "Settings",
+    "quickActions": "Quick Actions",
+    "send": "Send",
+    "receive": "Receive",
+    "qrPay": "QR Pay",
+    "verifiedMember": "Verified Member",
+    "biometricVerified": "Biometric Verified",
+    "availableSocialCapital": "Available Social Capital",
+    "socialCapitalSub": "Available Social Capital",
+    "avgMemberRoi": "Avg. Member ROI",
+    "searchProjects": "Search projects...",
+    "recentTrades": "Recent Trades",
+    "viewAll": "View All",
+    "overviewTab": {
+      "title": "Dashboard Overview",
+      "subtitle": "Manage your community assets and growth pools.",
+      "walletBalance": "Wallet Balance",
+      "acrossNetworks": "Across 3 networks",
+      "socialCapitalAvailable": "Social Capital Available",
+      "bnplCredit": "BNPL Credit",
+      "interestAvailable": "0% Interest Available",
+      "magicActions": "Magic Actions",
+      "payMerchant": "Pay Merchant",
+      "cards": "Cards",
+      "marketPulse": "Support Market Pulse",
+      "totalPooled": "Total Pooled Capital",
+      "activeRequests": "Active Requests",
+      "avgRoi": "Avg. Community ROI",
+      "enterMarket": "Enter Market"
+    },
+    "walletBalance": "Wallet Balance",
+    "socialCapitalAvailable": "Social Capital Available",
+    "bnplSub": "0% Interest Available",
+    "pooledCapital": "Total Pooled Capital",
+    "activeRequests": "Active Requests",
+    "marketPulse": "Support Market Pulse",
+    "activity": {
+      "organicFarm": "Organic Farm Box",
+      "tradeTransaction": "Trade Transaction",
+      "profitShare": "Profit Share: Taxi",
+      "assetReward": "Asset Reward",
+      "socialReturn": "Social Return",
+      "schoolFee": "School Fee Card",
+      "remittanceLoad": "Remittance Load",
+      "today": "Today",
+      "yesterday": "Yesterday",
+      "daysAgo": "2 days ago"
+    },
+    "market": {
+      "title": "Internal Support Market",
+      "desc": "Support verified members' business requests using your Social Capital. No debt, no interest—just shared community growth.",
+      "projectYield": "Project Yield",
+      "requested": "Requested",
+      "funded": "Funded",
+      "insufficient": "Insufficient Social Capital"
+    },
+    "networks": {
+      "subtitle": "Interconnect with the economies that matter to you.",
+      "communityYield": "Community Yield",
+      "trustStatus": "Trust Status",
+      "members": "Members",
+      "magicInterconnection": "The Magic of Interconnection",
+      "interconnectionDesc": "Connect your networks to allow seamless trade across different community pools. Expand your internal market safely.",
+      "configure": "Configure Interconnections"
+    },
+    "settingsTab": {
+      "subtitle": "Manage your identity, security, and preferences.",
+      "securityTitle": "Security & Identity",
+      "biometricAuth": "Biometric Authentication",
+      "biometricDesc": "Use fingerprint/FaceID for transactions",
+      "kyc": "KYC Verification",
+      "kycStatus": "Status: Tier 2 (Full Access)",
+      "twoFactor": "Two-Factor Auth",
+      "twoFactorConnected": "Connected to +233 **** 491",
+      "change": "Change",
+      "communication": "Communication",
+      "push": "Push Notifications",
+      "pushDesc": "Trade alerts and community updates",
+      "dangerZone": "Danger Zone",
+      "dangerDesc": "Permanently close your account and liquidate community assets.",
+      "closeAccount": "Close Account",
+      "editProfile": "Edit Profile"
+    },
+    "walletTab": {
+      "subtitle": "Manage your multi-currency assets and secure payments.",
+      "wallets": "Community Wallets",
+      "addCurrency": "Add New Currency",
+      "cardTitle": "Biometric Member Card",
+      "memberName": "Member Name",
+      "validThru": "Valid Thru",
+      "frozen": "Frozen",
+      "freeze": "Freeze Card",
+      "unfreeze": "Unfreeze Card",
+      "p2p": "Free peer-to-peer transfers",
+      "merchantFees": "No merchant fees for MTB members"
+    },
+    "modals": {
+      "send": {
+        "recipient": "Recipient Member",
+        "recipientPlaceholder": "Name or Member ID",
+        "amount": "Amount (EUR)",
+        "fee": "Fee",
+        "available": "Available",
+        "processing": "Verifying Biometrics...",
+        "success": "Successfully sent"
+      },
+      "receive": {
+        "instruction": "Scanning this QR will initiate a biometric-verified trade within the network."
+      },
+      "join": {
+        "inviteCode": "Invite Code",
+        "desc": "Invite codes are issued by community administrators. Once joined, your zero-cost wallet will be initialized for this network.",
+        "processing": "Verifying Invite...",
+        "success": "Joined Network Successfully!"
+      }
+    }
+  },
+  "shop": {
+    "badge": "Revolutionizing Retail",
+    "title": "Pay Any Shop of the Community, Any time",
+    "desc": "Helloopass connects merchants and customers with the most flexible payment ecosystem in Africa. Seamless, secure, and community-driven.",
+    "joinMerchant": "Join as Merchant",
+    "findShops": "Find Shops",
+    "empowering": "Empowering Small Businesses",
+    "modernTech": "Modern technology meeting the heartbeat of local commerce.",
+    "versatile": "Versatile Payment Options",
+    "versatileSubtitle": "Choose the method that works best for your community.",
+    "methods": {
+      "app": {
+        "title": "App Payment",
+        "desc": "Pay instantly via the Helloopass app using your balance or social capital."
+      },
+      "nfc": {
+        "title": "NFC Contactless",
+        "desc": "Tap your phone or card on the merchant terminal for a lightning-fast checkout."
+      },
+      "ussd": {
+        "title": "USSD Code",
+        "desc": "No internet? No problem. Dial our shortcode to authorize payments from any phone."
+      },
+      "bnpl": {
+        "title": "Buy Now, Pay Later",
+        "desc": "Get what you need now and pay in flexible community-backed installments."
+      }
+    },
+    "journey": {
+      "title": "The Seamless",
+      "subtitle": "Customer Journey",
+      "desc": "From selection to settlement, every step is optimized for the African market context.",
+      "step1": {
+        "title": "Discover & Selection",
+        "desc": "Customer visits a verified community shop and selects items."
+      },
+      "step2": {
+        "title": "Payment Request",
+        "desc": "Merchant initiates a payment request via their Magic Trade Box terminal."
+      },
+      "step3": {
+        "title": "Identity Verification",
+        "desc": "Customer confirms identity through biometrics or secure PIN."
+      },
+      "step4": {
+        "title": "Instant Settlement",
+        "desc": "Funds are moved from customer to merchant wallet in real-time."
+      }
+    },
+    "terminal": {
+      "id": "Terminal ID",
+      "connected": "Connected",
+      "transactionAmount": "Transaction Amount",
+      "customer": "Customer",
+      "method": "Method"
+    },
+    "growthEngine": {
+      "badge": "Growth Engine",
+      "title": "Unlock Your",
+      "subtitle": "Credit Potential",
+      "desc": "Our BNPL model isn't based on legacy credit scores. It's built on your participation and reputation within your community trade network.",
+      "interestRate": "Interest Rate",
+      "repaymentWindow": "Repayment Window"
+    },
+    "cta": {
+      "title": "Ready to Upgrade",
+      "subtitle": "Your Shop?"
+    }
+  },
+  "common": {
+    "learnMore": "Learn More",
+    "status": "Status",
+    "approved": "Approved",
+    "downloadReceipt": "Download Receipt",
+    "getMagicBox": "Get Your Magic Box",
+    "talkSales": "Talk to Sales",
+    "launchEconomy": "Launch Your Economy",
+    "startBuilding": "Start Building",
+    "apiDocs": "API Docs",
+    "becomePartner": "Become a Partner",
+    "joinPlatform": "Join the platform",
+    "joinNetwork": "Join the Network",
+    "getStarted": "Get Started",
+    "watchDemo": "Watch Demo",
+    "comingSoon": "features are currently being synchronized with our biometric engine. Check back soon!"
+  },
+  "bnplPage": {
+    "badge": "The Future of Credit",
+    "title": "Why Helloopass BNPL is Unique",
+    "subtitle": "Community-Controlled, Trade-Based, and Risk-Smart",
+    "desc": "The Helloopass BNPL model is designed specifically for how credit actually works in Africa - and it fixes the broken parts.",
+    "traditional": "Traditional Banking",
+    "model": "HellOOpass Model",
+    "factors": {
+      "factor": "Factor",
+      "decision": "Decision",
+      "criteria": "Criteria",
+      "risk": "Risk",
+      "focus": "Focus",
+      "whoDecides": "Who Decides",
+      "collateral": "Collateral",
+      "creditBasis": "Credit Basis",
+      "useFunds": "Use of Funds",
+      "merchantRole": "Merchant Role",
+      "riskBearer": "Risk Bearer",
+      "cashFlow": "Cash Flow",
+      "informalAccess": "Informal Access",
+      "culturalFit": "Cultural Fit"
+    },
+    "merchantLed": {
+      "badge": "Merchant-Led",
+      "title": "Merchants extend credit to",
+      "subtitle": "Known Customers",
+      "desc": "HellOOpass provides merchants with a credit line that they can extend to their own customers. The merchant knows the customer personally and the credit is tied to specific trade.",
+      "points": [
+        "Merchant chooses trusted customers",
+        "Credit used only for trade transactions",
+        "Merchant gets paid instantly by HellOOpass",
+        "Social accountability ensures repayment"
+      ],
+      "illustrationDesc": "A South African entrepreneur in Johannesburg initiating a digital trade credit request."
+    },
+    "supplierCrisis": {
+      "title": "Solving the",
+      "subtitle": "Supplier Credit Crisis",
+      "problem": {
+        "title": "The Problem",
+        "desc": "Wholesalers wait weeks for payment. Cash flow is locked, preventing restocking and growth."
+      },
+      "solution": {
+        "title": "The Solution",
+        "desc": "Instant liquidity. Wholesalers get paid immediately by HellOOpass on delivery."
+      },
+      "exampleTitle": "Example: The Spaza Shop Owner",
+      "exampleDesc": "She buys stock from wholesalers and resells to her local community.",
+      "waiting": "Waiting for end-of-month pay.",
+      "paid": "Paid instantly on delivery."
+    },
+    "riskManagement": {
+      "title": "Unique Risk Management",
+      "level1": {
+        "label": "Level 1",
+        "title": "Merchant Collateral",
+        "desc": "Merchant trusts the customer personally."
+      },
+      "level2": {
+        "label": "Level 2",
+        "title": "Customer Reliability",
+        "desc": "Reputation is the primary currency."
+      },
+      "level3": {
+        "label": "Level 3",
+        "title": "Guarantors",
+        "desc": "Trusted members can back newcomers."
+      }
+    },
+    "collectiveTrust": {
+      "badge": "Trade Unions",
+      "title": "Empowering communities",
+      "subtitle": "via Collective Trust",
+      "desc": "Trade unions gain collective credit lines, ensuring even small traders can participate in digital trade networks.",
+      "illustrationDesc": "South African business leaders and trade union members facilitating collective credit."
+    },
+    "comparisonTable": "Comparison Table",
+    "finalCta": "Built for African Markets"
+  },
+  "onlinePayment": {
+    "badge": "E-Commerce Ecosystem",
+    "title": "How Online Payment Works with Helloopass",
+    "desc": "Customer clicks 'Pay with Helloopass' at online checkout, authenticates with fingerprint or PIN, and payment is instant—with funds settling immediately to the merchant's wallet. (NFC card is for physical shops only.)",
+    "journeyTitle": "The Step-by-Step Journey",
+    "journeySubtitle": "From browsing to successful delivery",
+    "authTitle": "Secure Authentication",
+    "authDesc": "Security is at the heart of every transaction. Choose the method that suits your device.",
+    "realExample": "Real Example: Marketplace Purchase",
+    "comparisonTitle": "Payment Methods Compared",
+    "comparisonSubtitle": "Choose the right method for your situation",
+    "customerSees": "What the Customer Sees",
+    "customerSeesSubtitle": "A clean, intuitive interface designed for speed",
+    "keyBenefits": "Key Benefits",
+    "keyBenefitsSubtitle": "Why merchants and customers prefer Helloopass",
+    "quote": "Frictionless. Community-driven. Secure.",
+    "empowering": "Empowering African Online Commerce",
+    "luandaTitle": "Seamless Shopping in Luanda",
+    "luandaDesc": "Experience the power of instant community payments",
+    "modernBusiness": "Modern Business Payments",
+    "modernBusinessDesc": "Professional tools for the modern Angolan economy",
+    "nfcNote": "Note: The NFC companion card is only for physical, in-person payments at shops with NFC terminals. It cannot be used for online transactions.",
+    "steps": {
+      "step1": {
+        "title": "1. Customer Shops Online",
+        "desc": "Customer browses an e-commerce website, mobile app, ride-hailing app, educational platform, or any online service that accepts Helloopass payments."
+      },
+      "step2": {
+        "title": "2. Customer Selects Helloopass",
+        "desc": "Customer clicks the Helloopass payment button. They are prompted to choose their community and preferred method: Wallet balance or BNPL."
+      },
+      "step3": {
+        "title": "3. Authentication Happens",
+        "desc": "Customer verifies identity through In-App Approval, PIN Entry, or OTP."
+      },
+      "step4": {
+        "title": "4. Payment is Processed",
+        "desc": "Helloopass verifies balance, identity, and permissions. Funds are instantly deducted from the customer's wallet."
+      },
+      "step5": {
+        "title": "5. Order is Confirmed",
+        "desc": "The online store confirms the order. Customer receives email, SMS, and in-app notifications."
+      },
+      "step6": {
+        "title": "6. Settlement to Merchant",
+        "desc": "Funds are available immediately in the merchant's Helloopass wallet."
+      }
+    }
+  },
+  "clearingHouse": {
+    "badge": "Settlement Infrastructure",
+    "title": "Automated Clearing House",
+    "desc": "Helloopass utilizes a tiered clearing house model to optimize for both speed and control, bridging the gap between immediate digital transactions and traditional financial systems.",
+    "visualBadge": "Tiered Trust Protocol",
+    "visualTitle": "Multi-Layer Financial Abstraction",
+    "visualDesc": "Our infrastructure decouples credit settlement from payment finality, allowing for unprecedented transaction speeds while maintaining strict regulatory compliance.",
+    "tieredModel": "The Tiered Model",
+    "settlementLogic": "Settlement Logic",
+    "flowVisualizer": "System Flow Visualizer",
+    "realTimeCredit": "Real-time Credit",
+    "flexibleSettlement": "Flexible Payment Settlement",
+    "engineStatus": "Engine Status",
+    "operational": "Operational",
+    "networkHub": "African Hub",
+    "latency": "Latency",
+    "layers": {
+      "layer1": {
+        "level": "Layer 1",
+        "title": "Intra-Community",
+        "desc": "Facilitates real-time clearing and settlement of transactions between members of the same community."
+      },
+      "layer2": {
+        "level": "Layer 2",
+        "title": "Inter-Community / Domestic",
+        "desc": "Manages clearing between different communities operating within the same country."
+      },
+      "layer3": {
+        "level": "Layer 3",
+        "title": "Cross-Border",
+        "desc": "Handles clearing and compliance for transactions between communities in different countries."
+      }
+    }
+  },
+  "developer": {
+    "badge": "Empowering African Innovation",
+    "title": "Order, Bill, Settle and Pay OS for Pan-African Apps",
+    "desc": "Stop fighting red tape. Start writing code. Build and launch fintech solutions across 54 countries with a single integration.",
+    "partnershipBadge": "Strategic Partnership",
+    "partnershipTitle": "Built with the Most Advanced AI Developer Community in Africa",
+    "partnershipDesc": "Helloopass partnered with Gebeya AI, the continent's leading ecosystem of AI developers. This collaboration ensures your apps are built on the most robust AI infrastructure, leveraging the top 1% of African tech talent.",
+    "plugPlayTitle": "Truly Plug and Play",
+    "regulatoryChallenge": "The Regulatory Challenge",
+    "solutionTitle": "The Helloopass Solution",
+    "beyondAcquisition": "Beyond Acquisition",
+    "institutionalBridges": "Institutional Bridges",
+    "powerfulApis": "Powerful APIs",
+    "apiSubtitle": "Over 200 endpoints to power your innovation.",
+    "ctaTitle": "Build once. Deploy everywhere.",
+    "eliteTalent": "Elite Talent",
+    "aiIntegration": "AI Integration",
+    "panAfricanReach": "Pan-African Reach",
+    "regulatoryPoints": [
+      "Launching fintech apps in Africa usually requires separate licenses for 54+ countries.",
+      "Each country has different regulators, complex requirements, and uncertain timelines.",
+      "Licensing can take 6—24 months and cost hundreds of thousands of dollars."
+    ],
+    "solutionDesc": "Helloopass provides the compliance infrastructure out of the box. No licensing barriers. One integration gives you immediate access to a pan-African network.",
+    "ethiopianDev": "Ethiopian Developer",
+    "gebeyaPartner": "Gebeya Partner",
+    "addisAbaba": "Addis Ababa, ET",
+    "empoweredBy": "Empowered by",
+    "eliteInfra": "Access elite infrastructure and join a vetted community of African tech talent.",
+    "congoleseConsumer": "Congolese Consumer",
+    "kinshasa": "Kinshasa, DRC",
+    "deployedFrom": "Now deployed from",
+    "addisToKinshasa": "Addis to Kinshasa",
+    "realWorldChallenges": "Solve real-world challenges like transport payments with frictionless APIs.",
+    "dayOne": "Connect with active communities and cooperatives from day one.",
+    "instantAccess": "Instant Access",
+    "instantAccessDesc": "Plug into economic cells with thousands of active members.",
+    "complianceService": "Compliance-as-a-Service",
+    "complianceDesc": "We handle the KYC, AML, and data privacy across all borders.",
+    "revenueSharing": "Revenue Sharing",
+    "revenueDesc": "Keep the majority of your earnings. No upfront platform fees.",
+    "bridgeGap": "Bridge the gap between formal banking and local cooperatives.",
+    "nairobiInfra": "Nairobi Infrastructure",
+    "exploreDocs": "Explore Documentation"
+  },
+  "architecture": {
+    "title": "Helloopass Service Layers: A Simple Breakdown",
+    "subtitle": "Helloopass trading OS operates on a flexible, modular platform that can be deployed in different ways depending on what a client needs. Think of it like a set of LEGO blocks—clients can take just one block or combine several to build their complete solution.",
+    "legoPrinciple": "The Lego Principle",
+    "flexibilityTitle": "Built for Flexibility",
+    "flexibilityDesc": "Every component of the HellOOpass ecosystem is designed to be modular, ensuring that your financial architecture can evolve as fast as your community does.",
+    "choosingLayer": "Choosing the Right Layer",
+    "summaryTable": "Summary Table",
+    "modularityTitle": "The Key Principle: Modularity",
+    "modularityDesc": "The most powerful feature of Helloopass is that clients can mix and match these layers. A cooperative might start with just the Trade Hub, then add the Compliance Shield as they grow, and eventually use the Core Engine to offer savings accounts to members.",
+    "exploreLayers": "Explore Layers",
+    "systemOverview": "System Overview",
+    "scaleCapabilities": "The flexibility of our platform allows you to choose exactly what you need today, with the peace of mind that you can scale to full banking capabilities tomorrow.",
+    "summary": {
+      "layer": "Layer",
+      "bestFor": "Best For",
+      "youGet": "You Get",
+      "youProvide": "You Provide"
+    },
+    "layers": {
+      "core": {
+        "title": "Layer 1: The Core Banking Engine (The Engine Room)",
+        "desc": "The fundamental technology that runs financial accounts, processes transactions, and manages ledgers.",
+        "analogy": "Like the engine of a car. The client provides the body and the brand, Helloopass provides the engine that makes it move."
+      },
+      "compliance": {
+        "title": "Layer 2: The Compliance & Regulatory Shield (The Safety Net)",
+        "desc": "Pre-built tools that automatically handle Know Your Customer (KYC), Anti-Money Laundering (AML), fraud detection, and regulatory reporting.",
+        "analogy": "Like having a built-in security guard and lawyer who constantly checks everything and keeps you out of trouble."
+      },
+      "embedded": {
+        "title": "Layer 3: The Embedded Finance Layer (The Toolkit)",
+        "desc": "A set of APIs (software connectors) that allow other companies to plug financial services directly into their own apps or websites.",
+        "analogy": "Like a restaurant adding a payment terminal—they don't build the payment system, they just plug it in and start accepting cards."
+      },
+      "trade": {
+        "title": "Layer 4: The Trade & Marketplace Hub (The Community Market)",
+        "desc": "A complete digital marketplace solution that combines trading, payments, logistics tracking, and community financing in one platform.",
+        "analogy": "Like building a digital village market where people can list goods, find buyers, pay securely, and access small loans—all in one trusted place."
+      },
+      "whiteLabel": {
+        "title": "Layer 5: Digital Trading (Trade-In-a-Box)",
+        "desc": "A complete, ready-to-launch digital bank or wallet that carries the client's brand but runs on Helloopass technology.",
+        "analogy": "Like a franchise restaurant. You get the full package—recipes, equipment, training—and put your name on the door."
+      }
+    }
+  },
+  "communities": {
+    "badge": "Verified Ecosystems",
+    "title": "Every Collective",
+    "desc": "HellOOpass isn't just a platform; it's a foundation for specialized economies designed by and for the people who live them.",
+    "ctaTitle": "Ready to create your own Community Network?",
+    "ctaDesc": "Start with the Magic Trade Box and watch your community's economic power grow through trust, transparency, and shared value.",
+    "launchButton": "Launch My Community",
+    "speakArchitect": "Speak to an Architect",
+    "labels": {
+      "theCommunity": "The Community",
+      "howItWorks": "How It Works with the MTB",
+      "empowerment": "Community Empowerment & Interconnection"
+    },
+    "items": {
+      "farmers": {
+        "title": "The Sustainable Farmers' Cooperative",
+        "desc": "A cooperative of 500 small-scale organic farmers seeking to cut out intermediaries, ensure fair pricing, and gain access to credit.",
+        "howItWorks": "The cooperative launches its own 'Farm-to-Table' marketplace. Customers scan a QR code to pay directly into the cooperative's system with no transaction fees, and each purchase earns them a free Support Bonus.",
+        "empowerment": "Farmers can post verified requests for cash to buy seeds. Customers and other members can use their free bonuses to support these requests, earning a share of the profit from the future harvest sales."
+      },
+      "taxi": {
+        "title": "The Collective Asset Fund",
+        "desc": "Un groupe social ou familial étroit dont les membres veulent mutualiser des ressources pour créer des actifs de vie pour l'un des leurs.",
+        "howItWorks": "Members create a 'Family Asset Fund' within the platform. They make deposits with no fees into a designated, shared digital wallet.",
+        "empowerment": "The collective fund provides the security for a partner financial institution to issue the vehicle loan. Repayments are automated through the platform."
+      },
+      "gig": {
+        "title": "The Urban Gig Worker Collective",
+        "desc": "A collective of freelance drivers, delivery personnel, and taskers in a major city, lacking access to traditional financial services.",
+        "howItWorks": "The collective forms a 'Gig Worker Union' network. Members receive a digital wallet and a virtual card. Clients pay through the platform.",
+        "empowerment": "A driver needing a cash advance can post a request. Other members support it with free bonuses, sharing in the profit."
+      },
+      "diaspora": {
+        "title": "The Diaspora Support Network",
+        "desc": "A diaspora community wanting to support families and businesses in their home country with targeted, secure remittances.",
+        "howItWorks": "The community creates a 'Homeland Support' network. Members abroad load funds and purchase specific-purpose gift cards.",
+        "empowerment": "Recipients redeem cards at approved merchants. Each transaction generates a Community Support Bonus."
+      },
+      "arts": {
+        "title": "The Cultural Arts & Crafts Guild",
+        "desc": "An indigenous community of artisans whose traditional crafts are undervalued, with profits lost to middlemen.",
+        "howItWorks": "The guild sets up its 'Heritage Makers' branded marketplace. Buyers pay directly to the artisan without added fees.",
+        "empowerment": "Buyers can use free bonuses to support an artisan's material request, sharing in the profit from large orders."
+      },
+      "aid": {
+        "title": "The Humanitarian Aid Corridor",
+        "desc": "An international NGO distributing aid in a refugee camp, aiming for efficiency, transparency, and local economic stimulation.",
+        "howItWorks": "The NGO creates an 'Aid & Dignity' network. Aid is distributed as digital vouchers redeemed at local kiosks.",
+        "empowerment": "Small businesses can post requests for microloans. Beneficiaries support these businesses with accumulated bonuses."
+      }
+    }
+  },
+  "communityTrading": {
+    "badge": "Infrastructure for Independence",
+    "title": "Your Own Community Trading Network",
+    "desc": "Helloopass provides the technology infrastructure that communities use to run their own closed-loop trading ecosystems. Each community operates independently, with its own members, merchants, and rules.",
+    "coreConcept": "The Core Concept",
+    "coreConceptDesc": "Helloopass doesn't own the communities; it empowers them with professional-grade financial technology.",
+    "completeFlow": "The Complete Flow",
+    "completeFlowDesc": "Follow the journey of value from community adoption to merchant settlement.",
+    "multipleCommunities": "Multiple Communities, One Platform",
+    "multipleCommunitiesDesc": "Helloopass can power hundreds of independent communities simultaneously. Each is a separate, closed-loop ecosystem.",
+    "realWorldExample": "Real-World Example",
+    "designPrinciples": "Design Principles",
+    "whatWeProvide": "What We Provide",
+    "whatWeProvideDesc": "Helloopass is the end-to-end infrastructure partner for your community economy.",
+    "ctaTitle": "Ready to digitize your community?",
+    "ctaDesc": "Build your own digital trading ecosystem securely and efficiently with Helloopass infrastructure.",
+    "engine": "The Engine",
+    "engineDesc": "Helloopass powers the background technology and compliance.",
+    "vehicle": "The Vehicle",
+    "vehicleDesc": "Communities own their brand, members, and local trust.",
+    "trader": "Community Trader",
+    "whiteLabeled": "White-Labeled",
+    "whiteLabeledDesc": "Each group has its own branded platform and identity.",
+    "independent": "Independent",
+    "independentDesc": "Communities onboard their own members and merchants.",
+    "infrastructure": "Infrastructure",
+    "infrastructureDesc": "We provide payment processing and settlement rails.",
+    "closedLoop": "Closed Loop",
+    "closedLoopDesc": "Trust and value remain within the local community ecosystem.",
+    "threeCommunities": "Three Communities, One Helloopass Platform",
+    "table": {
+      "community": "Community",
+      "type": "Type",
+      "members": "Members",
+      "merchants": "Merchants",
+      "uniqueFeature": "Unique Feature"
+    }
+  },
+  "connectCommunities": {
+    "badge": "Connectivity Engine",
+    "title": "COMMUNITY CONNECTIVITY",
+    "desc": "Communities on HellOOpass are autonomous nodes that can choose to connect with other communities—locally, regionally, or globally—to expand trading opportunities while maintaining their own governance.",
+    "bilateral": "Bilateral Agreements",
+    "bilateralDesc": "Two communities must both agree to connect.",
+    "control": "Community Control",
+    "controlDesc": "Each community decides who they connect with and on what terms.",
+    "noLimits": "No Technical Limits",
+    "noLimitsDesc": "A community can connect with 1 or 1,000+ other communities.",
+    "openOption": "Fully Open Option",
+    "openOptionDesc": "A community can welcome members from any community worldwide.",
+    "scenario": "Real-World Scenario",
+    "chadTitle": "CHAD LIVESTOCK TO",
+    "ivoryCoast": "IVORY COAST MEAT",
+    "result": "RESULT: DIRECT, SECURE CROSS-BORDER TRADE BENEFITING BOTH COMMUNITIES.",
+    "typesTitle": "Types of Connections",
+    "possible": "WHAT BECOMES POSSIBLE",
+    "governance": "Governance & Safety",
+    "governanceTitle": "HOW CONNECTIONS ARE GOVERNED",
+    "governanceDesc": "When communities connect, they agree on a set of automated rules enforced by the HellOOpass platform.",
+    "vision": "THE VISION",
+    "visionQuote": "HellOOpass doesn't build one giant marketplace. It helps thousands of communities build bridges between their marketplaces.",
+    "visionDesc": "From village cooperatives to continental trading networks—communities choose their connections, grow at their own pace, and collectively build a Pan-African trading ecosystem."
+  },
+  "economicCells": {
+    "badge": "System Architecture",
+    "title": "Distributed Economic Cells System",
+    "desc": "The Global Economic Cell System is the foundation of our decentralized economy, where every participant is a vital part of a self-sustaining network.",
+    "illustration1": "Your Digital Cell Passport",
+    "illustration2": "Global Economic Connectivity",
+    "ctaTitle": "Join the Global Economy",
+    "ctaDesc": "The Global Economic Cell System is your gateway to a world of borderless commerce and community-driven prosperity.",
+    "activateCell": "Activate Your Cell",
+    "ill1Label": "Illustration 01",
+    "ill2Label": "Illustration 02",
+    "cells": {
+      "c1": { "title": "You Are a Cell in the Global Economy", "desc": "Your identity and economic activity are tied to your digital 'cell,' which acts as your passport in this system." },
+      "c2": { "title": "Automatic Wallet for Every Cell", "desc": "Each cell comes with a default digital wallet for transactions." },
+      "c3": { "title": "Real-Time Wallet Funding", "desc": "You can add funds instantly using any recognized payment method, with no restrictions." },
+      "c4": { "title": "Stablecoin can backup credits", "desc": "All wallet credits are backed by a stablecoin from the country where you opened your cell account." },
+      "c5": { "title": "Sell Goods & Services Freely", "desc": "Cells can open shops and trade with others, following the trade license rules." },
+      "c6": { "title": "Earning Wallets for Shops", "desc": "Each shop gets a dedicated wallet to collect sales revenue." },
+      "c7": { "title": "Link Earnings to Bank Accounts", "desc": "You can connect your earning wallet to your preferred bank accounts." },
+      "c8": { "title": "Instant Cash-Out", "desc": "Convert credits to cash with one click; the amount transfers to your bank." },
+      "c9": { "title": "Create & Govern Communities", "desc": "Cells can form groups, set trading rules, and communicate legally." },
+      "c10": { "title": "Seamless Multilingual Communication", "desc": "AI instantly translates messages so cells can interact in any language." },
+      "c11": { "title": "Integrate External Platforms", "desc": "Cells can connect their digital tools, as long as they follow system policies." },
+      "c12": { "title": "Custom Payment Solutions", "desc": "Communities can set up escrow accounts and offer flexible payment terms." },
+      "c13": { "title": "Bank & Financial Institution Integration", "desc": "All cash-based transactions go through regulated escrow accounts." },
+      "c14": { "title": "Full Regulatory Compliance", "desc": "Every transaction follows the laws of the countries involved." }
+    }
+  },
+  "footer": {
+    "tagline": "The next generation of settlement infrastructure for modern communities and cross-border commerce.",
+    "platform": "Platform",
+    "company": "Company",
+    "stayUpdated": "Stay Updated",
+    "rights": "All rights reserved.",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service",
+    "security": "Security",
+    "links": {
+      "clearing": "Clearing House",
+      "compliance": "Compliance Engines",
+      "fx": "FX Liquidity",
+      "docs": "API Documentation",
+      "about": "About Us",
+      "careers": "Careers",
+      "press": "Press Kit",
+      "contact": "Contact"
+    }
+  },
+  "architectureDiagram": {
+    "title": "Infrastructure Visualization",
+    "subtitle": "How data flows through the tiered clearing house model",
+    "crossBorder": "CROSS-BORDER",
+    "interCommunity": "INTER-COMMUNITY",
+    "intraCommunity": "INTRA-COMMUNITY",
+    "globalHub": "Global Clearing Hub",
+    "domesticNode": "Domestic Node",
+    "localLedger": "Local Community Ledger",
+    "stats": {
+      "speed": "Processing Speed",
+      "uptime": "Uptime SLA",
+      "reach": "Global Reach",
+      "security": "Security Level"
+    }
+  },
+  "settlementLogic": {
+    "title": "Real-Time Credit,",
+    "subtitle": "Flexible Settlement.",
+    "desc": "We separate credit availability from fiat movement to provide the best of both worlds: immediate liquidity for users and operational control for admins.",
+    "realTime": "Real-Time Credit Settlement",
+    "realTimeDesc": "Across all layers, credit is settled instantly. Funds are visible and usable by the recipient immediately upon transaction authorization.",
+    "flexible": "Flexible Fiat Payouts",
+    "flexibleDesc": "The actual movement of physical currency can be configured to occur at scheduled times (daily, weekly) or triggered on-demand by the platform operator.",
+    "config": "Settlement Configuration",
+    "velocity": "Current Ecosystem Velocity"
+  },
+  "partnership": {
+    "title": "Building the Future of African Trade, Together",
+    "subtitle": "Helloopass trading OS operates on a flexible, modular platform that can be deployed in different ways depending on what a client needs.",
+    "ready": "Ready to launch your economy?",
+    "talk": "Talk to a Partnership Specialist",
+    "models": {
+      "community": {
+        "location": "Congo Brazzaville",
+        "title": "Community Leaders",
+        "subtitle": "Empower your local ecosystem.",
+        "desc": "Lead your community towards economic sovereignty with our specialized tools for local trade and collective growth."
+      },
+      "developer": {
+        "location": "Kenya",
+        "title": "African Developers",
+        "subtitle": "Build the next generation of Fintech.",
+        "desc": "Access our robust APIs and infrastructure to create powerful applications tailored for the African market."
+      },
+      "finance": {
+        "location": "Middle East",
+        "title": "Financial Institutions",
+        "subtitle": "Bridge traditional and digital finance.",
+        "desc": "Partner with us to offer innovative digital banking services and reach underserved markets efficiently."
+      },
+      "gateway": {
+        "location": "Global",
+        "title": "Payment Gateways",
+        "subtitle": "Expand your reach across borders.",
+        "desc": "Connect with our pan-African network to provide seamless cross-border payment solutions."
+      },
+      "investor": {
+        "location": "Zimbabwe",
+        "title": "Strategic Investors",
+        "subtitle": "Fueling sustainable growth.",
+        "desc": "Join us in backing the infrastructure that is reclaiming the economics of community across the continent."
+      },
+      "franchise": {
+        "location": "Burkina Faso",
+        "title": "Franchise Partners",
+        "subtitle": "Scale a proven model.",
+        "desc": "Bring the Magic Trade Box ecosystem to new regions with our complete franchise support and technology package."
+      }
+    }
+  }
+}

@@ -1,0 +1,802 @@
+{
+  "nav": {
+    "vision": "La Vision",
+    "growth": "Croissance Rapide",
+    "communities": "Communautés",
+    "architecture": "Architecture",
+    "howItWorks": "Comment ça marche ?",
+    "enterMtb": "Entrer dans MTB",
+    "enterDashboard": "Accéder au tableau de bord",
+    "howItWorksItems": {
+      "economicCells": "Système de cellules économiques distribuées",
+      "communityTrading": "Votre propre réseau de commerce communautaire",
+      "payAnyShop": "Payer n'importe quel magasin",
+      "onlinePayment": "Paiement en ligne",
+      "developers": "Plateforme pour développeurs africains",
+      "bnpl": "Acheter maintenant, payer plus tard",
+      "connectCommunities": "Connecter les communautés",
+      "clearingHouses": "Chambres de compensation automatisées"
+    },
+    "switchToFrench": "Passer au Français",
+    "switchToEnglish": "Switch to English"
+  },
+  "hero": {
+    "badge": "Présentation du Magic Trade Box",
+    "title": "Récupérer l'Économie de la Communauté",
+    "desc": "Le Trade Box Eng. est votre plateforme tout-en-un pour la souveraineté économique communautaire. Autonomiser les familles, les réseaux de la diaspora et les coopératives pour prospérer selon leurs propres termes.",
+    "launch": "Lancez votre économie",
+    "whitepaper": "Lire le Livre Blanc"
+  },
+  "ecosystem": {
+    "badge": "Couche de Croissance Organique",
+    "title": "Un Écosystème Inspiré par l'Humain qui se propage comme un Feu de Brousse",
+    "desc": "Cette couche fonctionne comme le corps humain—chaque personne ou entreprise (ou « cellule ») peut librement rejoindre ou être invitée à différents organes (communautés ou réseaux). Tout comme les cellules soutiennent le cœur, les poumons ou d'autres organes, les gens et les entreprises de ce système échangent de manière fluide sur la base de valeurs communes.",
+    "noGatekeepers": {
+      "title": "Pas de Gardiens",
+      "desc": "Comme les réseaux sociaux, n'importe qui peut rejoindre ou inviter d'autres personnes, supprimant les frictions. Pas d'autorité centrale pour ralentir la croissance."
+    },
+    "networkEffects": {
+      "title": "Effets de Réseau",
+      "desc": "Plus il y a de participants, plus l'écosystème prend de la valeur (tout comme Facebook ou WhatsApp)."
+    },
+    "selfSustaining": {
+      "title": "Auto-Sustentable",
+      "desc": "Une fois la masse critique atteinte, la croissance s'accélère organiquement à mesure que les membres en recrutent d'autres, alimentant une boucle virale."
+    },
+    "modular": {
+      "title": "Modulaire & Evolutif",
+      "desc": "De nouveaux 'organes' (sous-communautés) peuvent se former instantanément, s'adaptant à la demande locale et aux besoins spécifiques."
+    },
+    "incentivized": {
+      "title": "Participation Incitée",
+      "desc": "Les gens bénéficient en contribuant (comme les cellules d'un corps), alimentant l'adoption virale et la durabilité à long terme."
+    },
+    "quote": "C'est conçu pour se propager—vite.",
+    "architecture": "Architecture Communautaire Virale"
+  },
+  "features": {
+    "title": "The TBE Operating System",
+    "subtitle": "Explorez les piliers de notre moteur économique communautaire.",
+    "zeroCost": {
+      "title": "Accès Sans Coût",
+      "desc": "Pas de frais pour charger, dégager ou envoyer. Nous supprimons la taxe sur le commerce communautaire."
+    },
+    "supportBonus": {
+      "title": "Bonus de Soutien",
+      "desc": "Gagnez du capital social à chaque échange. Utilisez-le pour financer des entreprises communautaires."
+    },
+    "bnpl": {
+      "title": "Crédit BNPL",
+      "desc": "Crédit à 0% d'intérêt basé sur la confiance de la communauté et l'historique des échanges."
+    },
+    "interconnection": {
+      "title": "Interconnexion",
+      "desc": "Échangez de manière transparente entre différents réseaux communautaires sans aucune friction."
+    }
+  },
+  "landing": {
+    "techSpotlight": {
+      "title": "Pleins feux sur la technologie",
+      "desc": "Notre plateforme est construite sur une technologie financière de pointe conçue pour résoudre les défis spécifiques du marché africain. De la sécurité biométrique à l'évaluation des risques par l'IA, nous garantissons que chaque transaction est sécurisée et transparente.",
+      "biometrics": "Biométrie",
+      "biometricsDesc": "Vérification faciale et d'empreintes digitales pour toutes les transactions de grande valeur.",
+      "iot": "Nœuds IoT",
+      "iotDesc": "Des capteurs suivent l'inventaire et déclenchent automatiquement les paiements.",
+      "fraudProof": {
+        "title": "Transactions sans fraude",
+        "desc": "Le cryptage avancé et le multi-signature biométrique garantissent que vos actifs sont toujours protégés."
+      },
+      "aiRisk": {
+        "title": "Moteur de risque IA",
+        "desc": "Nos algorithmes propriétaires analysent les couches commerciales de la communauté pour offrir un accès équitable au crédit."
+      }
+    },
+    "cta": {
+      "title": "Prêt à lancer votre économie ?",
+      "desc": "Rejoignez des milliers de communautés qui récupèrent déjà leur souveraineté économique avec la Magic Trade Box."
+    },
+    "stats": {
+      "active": "Nœuds commerciaux actifs",
+      "groups": "Communautés vérifiées",
+      "volume": "Volume de transactions 24h"
+    }
+  },
+  "dashboard": {
+    "overview": "Vue d'ensemble",
+    "overviewSub": "Gérez vos actifs communautaires et vos pools de croissance.",
+    "supportMarket": "Marché de soutien",
+    "walletsCards": "Portefeuilles & Cartes",
+    "myNetworks": "Mes réseaux",
+    "settings": "Paramètres",
+    "quickActions": "Actions Rapides",
+    "send": "Envoyer",
+    "receive": "Recevoir",
+    "qrPay": "Paiement QR",
+    "verifiedMember": "Membre Vérifié",
+    "biometricVerified": "Vérifié par Biométrie",
+    "availableSocialCapital": "Capital Social Disponible",
+    "socialCapitalSub": "Capital Social Disponible",
+    "avgMemberRoi": "ROI Moyen des Membres",
+    "searchProjects": "Rechercher des projets...",
+    "recentTrades": "Échanges Récents",
+    "viewAll": "Voir Tout",
+    "overviewTab": {
+      "title": "Aperçu du tableau de bord",
+      "subtitle": "Gérez vos actifs communautaires et vos pools de croissance.",
+      "walletBalance": "Solde du portefeuille",
+      "acrossNetworks": "Sur 3 réseaux",
+      "socialCapitalAvailable": "Capital social disponible",
+      "bnplCredit": "Crédit BNPL",
+      "interestAvailable": "0% d'intérêt disponible",
+      "magicActions": "Actions magiques",
+      "payMerchant": "Payer un marchand",
+      "cards": "Cartes",
+      "marketPulse": "Pouls du marché de soutien",
+      "totalPooled": "Total du capital mis en commun",
+      "activeRequests": "Demandes actives",
+      "avgRoi": "ROI moyen de la communauté",
+      "enterMarket": "Entrer sur le marché"
+    },
+    "walletBalance": "Solde du portefeuille",
+    "socialCapitalAvailable": "Capital social disponible",
+    "bnplSub": "0% d'intérêt disponible",
+    "pooledCapital": "Total du capital mis en commun",
+    "activeRequests": "Demandes actives",
+    "marketPulse": "Pouls du marché de soutien",
+    "activity": {
+      "organicFarm": "Panier de ferme bio",
+      "tradeTransaction": "Transaction commerciale",
+      "profitShare": "Partage de profit : Taxi",
+      "assetReward": "Récompense d'actif",
+      "socialReturn": "Retour social",
+      "schoolFee": "Carte de frais scolaires",
+      "remittanceLoad": "Chargement de transfert",
+      "today": "Aujourd'hui",
+      "yesterday": "Hier",
+      "daysAgo": "Il y a 2 jours"
+    },
+    "market": {
+      "title": "Marché de soutien interne",
+      "desc": "Soutenez les demandes commerciales des membres vérifiés en utilisant votre capital social. Pas de dette, pas d'intérêt—juste une croissance communautaire partagée.",
+      "projectYield": "Rendement du projet",
+      "requested": "Demandé",
+      "funded": "Financé",
+      "insufficient": "Capital Social Insuffisant"
+    },
+    "networks": {
+      "subtitle": "Interconnectez-vous avec les économies qui comptent pour vous.",
+      "communityYield": "Rendement communautaire",
+      "trustStatus": "Statut de confiance",
+      "members": "Membres",
+      "magicInterconnection": "La magie de l'interconnexion",
+      "interconnectionDesc": "Connectez vos réseaux pour permettre un commerce fluide entre différents pools communautaires. Étendez votre marché interne en toute sécurité.",
+      "configure": "Configurer les interconnexions"
+    },
+    "settingsTab": {
+      "subtitle": "Gérez votre identité, votre sécurité et vos préférences.",
+      "securityTitle": "Sécurité & Identité",
+      "biometricAuth": "Authentification biométrique",
+      "biometricDesc": "Utiliser l'empreinte digitale/FaceID pour les transactions",
+      "kyc": "Vérification KYC",
+      "kycStatus": "Statut : Niveau 2 (Accès complet)",
+      "twoFactor": "Auth à deux facteurs",
+      "twoFactorConnected": "Connecté au +233 **** 491",
+      "change": "Modifier",
+      "communication": "Communication",
+      "push": "Notifications Push",
+      "pushDesc": "Alertes commerciales et mises à jour communautaires",
+      "dangerZone": "Zone de danger",
+      "dangerDesc": "Fermer définitivement votre compte et liquider les actifs communautaires.",
+      "closeAccount": "Fermer le compte",
+      "editProfile": "Modifier le profil"
+    },
+    "walletTab": {
+      "subtitle": "Gérez vos actifs multi-devises et vos paiements sécurisés.",
+      "wallets": "Portefeuilles communautaires",
+      "addCurrency": "Ajouter une devise",
+      "cardTitle": "Carte de membre biométrique",
+      "memberName": "Nom du membre",
+      "validThru": "Valide jusqu'au",
+      "frozen": "Gelée",
+      "freeze": "Geler la carte",
+      "unfreeze": "Dégeler la carte",
+      "p2p": "Transferts de pair à pair gratuits",
+      "merchantFees": "Pas de frais de marchand pour les membres MTB"
+    },
+    "modals": {
+      "send": {
+        "recipient": "Membre Destinataire",
+        "recipientPlaceholder": "Nom ou ID du Membre",
+        "amount": "Montant (EUR)",
+        "fee": "Frais",
+        "available": "Disponible",
+        "processing": "Vérification Biométrique...",
+        "success": "Envoyé avec succès"
+      },
+      "receive": {
+        "instruction": "Scanner ce QR lancera une transaction vérifiée par biométrie au sein du réseau."
+      },
+      "join": {
+        "inviteCode": "Code d'invitation",
+        "desc": "Les codes d'invitation sont émis par les administrateurs de la communauté. Une fois rejoint, votre portefeuille sans frais sera initialisé pour ce réseau.",
+        "processing": "Vérification de l'invitation...",
+        "success": "Réseau rejoint avec succès !"
+      }
+    }
+  },
+  "shop": {
+    "badge": "Révolutionner la vente au détail",
+    "title": "Payez n'importe quel magasin de la communauté, n'importe quand",
+    "desc": "Helloopass connecte les commerçants et les clients avec l'écosystème de paiement le plus flexible d'Afrique. Transparent, sécurisé et communautaire.",
+    "joinMerchant": "Rejoindre en tant que commerçant",
+    "findShops": "Trouver des magasins",
+    "empowering": "Autonomiser les petites entreprises",
+    "modernTech": "La technologie moderne au service du commerce local.",
+    "versatile": "Options de paiement polyvalentes",
+    "versatileSubtitle": "Choisissez la méthode qui convient le mieux à votre communauté.",
+    "methods": {
+      "app": {
+        "title": "Paiement via App",
+        "desc": "Payez instantanément via l'application Helloopass en utilisant votre solde ou votre capital social."
+      },
+      "nfc": {
+        "title": "Contact sans fil NFC",
+        "desc": "Posez votre téléphone ou votre carte sur le terminal du commerçant pour un passage en caisse rapide."
+      },
+      "ussd": {
+        "title": "Code USSD",
+        "desc": "Pas d'internet ? Pas de problème. Composez notre code court pour autoriser les paiements depuis n'importe quel téléphone."
+      },
+      "bnpl": {
+        "title": "Acheter maintenant, payer plus tard",
+        "desc": "Obtenez ce dont vous avez besoin maintenant et payez en plusieurs fois de manière flexible avec le soutien de la communauté."
+      }
+    },
+    "journey": {
+      "title": "Le parcours",
+      "subtitle": "client fluide",
+      "desc": "De la sélection au règlement, chaque étape est optimisée pour le contexte du marché africain.",
+      "step1": {
+        "title": "Découverte & Sélection",
+        "desc": "Le client visite un magasin communautaire vérifié et sélectionne ses articles."
+      },
+      "step2": {
+        "title": "Demande de paiement",
+        "desc": "Le marchand initie une demande de paiement via son terminal Magic Trade Box."
+      },
+      "step3": {
+        "title": "Vérification d'identité",
+        "desc": "Le client confirme son identité par biométrie ou code PIN sécurisé."
+      },
+      "step4": {
+        "title": "Règlement instantané",
+        "desc": "Les fonds sont transférés du portefeuille du client vers celui du marchand en temps réel."
+      }
+    },
+    "terminal": {
+      "id": "ID du terminal",
+      "connected": "Connecté",
+      "transactionAmount": "Montant de la transaction",
+      "customer": "Client",
+      "method": "Méthode"
+    },
+    "growthEngine": {
+      "badge": "Moteur de croissance",
+      "title": "Libérez votre",
+      "subtitle": "potentiel de crédit",
+      "desc": "Notre couche BNPL n'est pas basée sur les scores de crédit traditionnels. Elle est fondée sur votre participation et votre réputation au sein de votre réseau commercial communautaire.",
+      "interestRate": "Taux d'intérêt",
+      "repaymentWindow": "Fenêtre de remboursement"
+    },
+    "cta": {
+      "title": "Prêt à mettre à jour",
+      "subtitle": "votre boutique ?"
+    }
+  },
+  "common": {
+    "learnMore": "En savoir plus",
+    "status": "Statut",
+    "approved": "Approuvé",
+    "downloadReceipt": "Télécharger le reçu",
+    "getMagicBox": "Obtenez votre Magic Box",
+    "talkSales": "Parler à un commercial",
+    "launchEconomy": "Lancez votre économie",
+    "startBuilding": "Commencer à construire",
+    "apiDocs": "Docs API",
+    "becomePartner": "Devenir partenaire",
+    "joinPlatform": "Rejoindre la plateforme",
+    "joinNetwork": "Rejoindre le réseau",
+    "getStarted": "Commencer",
+    "watchDemo": "Voir la démo",
+    "comingSoon": "les fonctionnalités sont actuellement synchronisées avec notre moteur biométrique. Revenez bientôt !"
+  },
+  "bnplPage": {
+    "badge": "Le futur du crédit",
+    "title": "Pourquoi Helloopass BNPL est unique",
+    "subtitle": "Contrôlé par la communauté, basé sur le commerce et intelligent",
+    "desc": "La couche Helloopass BNPL est conçue spécifiquement pour le fonctionnement réel du crédit en Afrique - et elle corrige les parties défaillantes.",
+    "traditional": "Banque traditionnelle",
+    "layer": "Couche HellOOpass",
+    "factors": {
+      "factor": "Facteur",
+      "decision": "Décision",
+      "criteria": "Critères",
+      "risk": "Risque",
+      "focus": "Focus",
+      "whoDecides": "Who décide",
+      "collateral": "Garantie",
+      "creditBasis": "Base du crédit",
+      "useFunds": "Utilisation des fonds",
+      "merchantRole": "Rôle du marchand",
+      "riskBearer": "Porteur de risque",
+      "cashFlow": "Flux de trésorerie",
+      "informalAccess": "Accès informel",
+      "culturalFit": "Adéquation culturelle"
+    },
+    "merchantLed": {
+      "badge": "Initié par le marchand",
+      "title": "Les marchands accordent du crédit aux",
+      "subtitle": "clients connus",
+      "desc": "HellOOpass offre aux marchands une ligne de crédit qu'ils peuvent étendre à leurs propres clients. Le marchand connaît personnellement le client et le crédit est lié à une transaction spécifique.",
+      "points": [
+        "Le marchand choisit des clients de confiance",
+        "Crédit utilisé uniquement pour les transactions commerciales",
+        "Le marchand est payé instantanément par HellOOpass",
+        "La responsabilité sociale garantit le remboursement"
+      ],
+      "illustrationDesc": "Un entrepreneur sud-africain à Johannesburg instaurant une demande de crédit commercial numérique."
+    },
+    "supplierCrisis": {
+      "title": "Résoudre la",
+      "subtitle": "crise du crédit fournisseur",
+      "problem": {
+        "title": "Le Problème",
+        "desc": "Les grossistes attendent des semaines pour être payés. Le flux de trésorerie est bloqué, empêchant le réapprovisionnement et la croissance."
+      },
+      "solution": {
+        "title": "La Solution",
+        "desc": "Liquidité instantanée. Les grossistes sont payés immédiatement par HellOOpass lors de la livraison."
+      },
+      "exampleTitle": "Example : Le propriétaire de boutique Spaza",
+      "exampleDesc": "Elle achète du stock aux grossistes et le revend à sa communauté locale.",
+      "waiting": "Attente du paiement à la fin du mois.",
+      "paid": "Payé instantanément à la livraison."
+    },
+    "riskManagement": {
+      "title": "Gestion unique des risques",
+      "level1": {
+        "label": "Niveau 1",
+        "title": "Garantie marchand",
+        "desc": "Le marchand fait personnellement confiance au client."
+      },
+      "level2": {
+        "label": "Niveau 2",
+        "title": "Fiabilité du client",
+        "desc": "La réputation est la devise principale."
+      },
+      "level3": {
+        "label": "Niveau 3",
+        "title": "Garants",
+        "desc": "Les membres de confiance peuvent soutenir les nouveaux arrivants."
+      }
+    },
+    "collectiveTrust": {
+      "badge": "Syndicats",
+      "title": "Autonomiser les communautés",
+      "subtitle": "via la confiance collective",
+      "desc": "Les syndicats obtiennent des lignes de crédit collectives, garantissant que même les petits commerçants peuvent participer aux réseaux commerciaux numériques.",
+      "illustrationDesc": "Chefs d'entreprise et membres de syndicats sud-africains facilitant le crédit collectif."
+    },
+    "comparisonTable": "Tableau comparatif",
+    "finalCta": "Conçu pour les marchés africains"
+  },
+  "onlinePayment": {
+    "badge": "Écosystème E-Commerce",
+    "title": "Comment fonctionne le paiement en ligne avec Helloopass",
+    "desc": "Le client clique sur 'Payez avec Helloopass' lors du paiement en ligne, s'authentifie avec son empreinte digitale ou son code PIN, et le paiement est instantané—avec les fonds réglés immédiatement dans le portefeuille du commerçant. (La carte NFC est uniquement pour les boutiques physiques.)",
+    "journeyTitle": "Le parcours étape par étape",
+    "journeySubtitle": "De la navigation à la livraison réussie",
+    "authTitle": "Authentification Sécurisée",
+    "authDesc": "La sécurité est au cœur de chaque transaction. Choisissez la méthode qui convient à votre appareil.",
+    "realExample": "Exemple Réel : Achat sur Marketplace",
+    "comparisonTitle": "Comparaison des Méthodes de Paiement",
+    "comparisonSubtitle": "Choisissez la bonne méthode pour votre situation",
+    "customerSees": "Ce que voit le client",
+    "customerSeesSubtitle": "Une interface propre et intuitive conçue pour la vitesse",
+    "keyBenefits": "Avantages Clés",
+    "keyBenefitsSubtitle": "Pourquoi les commerçants et les clients préfèrent Helloopass",
+    "quote": "Sans friction. Communautaire. Sécurisé.",
+    "empowering": "Autonomiser le commerce en ligne africain",
+    "luandaTitle": "Shopping fluide à Luanda",
+    "luandaDesc": "Découvrez la puissance des paiements communautaires instantanés",
+    "modernBusiness": "Paiements commerciaux modernes",
+    "modernBusinessDesc": "Des outils professionnels pour l'économie angolaise moderne",
+    "nfcNote": "Note : La carte NFC est uniquement pour les paiements physiques en magasin avec des terminaux NFC. Elle ne peut pas être utilisée pour les transactions en ligne.",
+    "steps": {
+      "step1": {
+        "title": "1. Le client achète en ligne",
+        "desc": "Le client parcourt un site e-commerce, une application mobile ou tout service en ligne acceptant Helloopass."
+      },
+      "step2": {
+        "title": "2. Le client sélectionne Helloopass",
+        "desc": "Le client clique sur le bouton de paiement Helloopass. Il choisit sa communauté et sa méthode préférée : solde ou BNPL."
+      },
+      "step3": {
+        "title": "3. L'authentification a lieu",
+        "desc": "Le client vérifie son identité via l'approbation in-app, la saisie d'un code PIN ou un OTP."
+      },
+      "step4": {
+        "title": "4. Le paiement est traité",
+        "desc": "Helloopass vérifie le solde et l'identité. Les fonds sont instantanément déduits du portefeuille du client."
+      },
+      "step5": {
+        "title": "5. La commande est confirmée",
+        "desc": "La boutique en ligne confirme la commande. Le client reçoit des notifications par e-mail, SMS et in-app."
+      },
+      "step6": {
+        "title": "6. Règlement au marchand",
+        "desc": "Les fonds sont disponibles immédiatement dans le portefeuille Helloopass du marchand."
+      }
+    }
+  },
+  "clearingHouse": {
+    "badge": "Infrastructure de Règlement",
+    "title": "Chambre de Compensation Automatisée",
+    "desc": "Helloopass utilise une couche de chambre de compensation à plusieurs niveaux pour optimiser à la fois la vitesse et le contrôle, comblant le fossé entre les transactions numériques immédiates et les systèmes financiers traditionnels.",
+    "visualBadge": "Protocole de Confiance à Niveaux",
+    "visualTitle": "Abstraction Financière Multi-Couches",
+    "visualDesc": "Notre infrastructure découple le règlement du crédit de la finalité du paiement, permettant des vitesses de transaction sans précédent tout en maintenant une conformité réglementaire stricte.",
+    "tieredLayer": "La Couche à Niveaux",
+    "settlementLogic": "Logique de Règlement",
+    "flowVisualizer": "Visualiseur de Flux Système",
+    "realTimeCredit": "Crédit en temps réel",
+    "flexibleSettlement": "Règlement de Paiement Flexible",
+    "engineStatus": "Statut du Moteur",
+    "operational": "Opérationnel",
+    "networkHub": "Hub Africain",
+    "latency": "Latence",
+    "layers": {
+      "layer1": {
+        "level": "Niveau 1",
+        "title": "Intra-communautaire",
+        "desc": "Facilite la compensation et le règlement en temps réel des transactions entre les membres d'une même communauté."
+      },
+      "layer2": {
+        "level": "Niveau 2",
+        "title": "Inter-communautaire / National",
+        "desc": "Gère la compensation entre différentes communautés opérant au sein du même pays."
+      },
+      "layer3": {
+        "level": "Niveau 3",
+        "title": "Transfrontalier",
+        "desc": "Gère la compensation et la conformité pour les transactions entre communautés de pays différents."
+      }
+    }
+  },
+  "developer": {
+    "badge": "Autonomiser l'Innovation Africaine",
+    "title": "OS de Commande, Facturation, Règlement et Paiement pour les Apps Panafricaines",
+    "desc": "Arrêtez de lutter contre la bureaucratie. Commencez à coder. Construisez et lancez des solutions fintech dans 54 pays avec une seule intégration.",
+    "partnershipBadge": "Partenariat Stratégique",
+    "partnershipTitle": "Construit avec la communauté de développeurs IA la plus avancée d'Afrique",
+    "partnershipDesc": "Helloopass s'est associé à Gebeya AI, le premier écosystème de développeurs IA du continent. Cette collaboration garantit que vos applications sont construites sur l'infrastructure IA la plus robuste, en tirant parti du top 1% des talents technologiques africains.",
+    "plugPlayTitle": "Véritablement Plug and Play",
+    "regulatoryChallenge": "Le Défi Réglementaire",
+    "solutionTitle": "La Solution Helloopass",
+    "beyondAcquisition": "Au-delà de l'Acquisition",
+    "institutionalBridges": "Ponts Institutionnels",
+    "powerfulApis": "APIs Puissantes",
+    "apiSubtitle": "Plus de 200 points de terminaison pour propulser votre innovation.",
+    "ctaTitle": "Construisez une fois. Déployez partout.",
+    "eliteTalent": "Talents d'élite",
+    "aiIntegration": "Intégration de l'IA",
+    "panAfricanReach": "Portée panafricaine",
+    "regulatoryPoints": [
+      "Le lancement d'applications fintech en Afrique nécessite généralement des licences séparées pour plus de 54 pays.",
+      "Chaque pays a des régulateurs différents, des exigences complexes et des délais incertains.",
+      "L'obtention d'une licence peut prendre de 6 à 24 mois et coûter des centaines de milliers de dollars."
+    ],
+    "solutionDesc": "Helloopass fournit l'infrastructure de conformité prête à l'emploi. Pas de barrières de licence. Une seule intégration vous donne un accès immédiat à un réseau panafricain.",
+    "ethiopianDev": "Développeur éthiopien",
+    "gebeyaPartner": "Partenaire Gebeya",
+    "addis-Abeba": "Addis-Abeba, ET",
+    "empoweredBy": "Propulsé par",
+    "eliteInfra": "Accédez à une infrastructure d'élite et rejoignez une communauté de talents technologiques africains sélectionnés.",
+    "congoleseConsumer": "Consommateur congolais",
+    "kinshasa": "Kinshasa, RDC",
+    "deployedFrom": "Maintenant déployé de",
+    "addisToKinshasa": "Addis à Kinshasa",
+    "realWorldChallenges": "Résolvez des défis du monde réel comme les paiements de transport avec des API fluides.",
+    "dayOne": "Connectez-vous avec des communautés actives et des coopératives dès le premier jour.",
+    "instantAccess": "Accès instantané",
+    "instantAccessDesc": "Connectez-vous à des cellules économiques comptant des milliers de membres actifs.",
+    "complianceService": "Conformité en tant que service",
+    "complianceDesc": "Nous gérons le KYC, l'AML et la confidentialité des données au-delà de toutes les frontières.",
+    "revenueSharing": "Partage des revenus",
+    "revenueDesc": "Gardez la majorité de vos gains. Pas de frais de plateforme initiaux.",
+    "bridgeGap": "Comblez le fossé entre le système bancaire formel et les coopératives locales.",
+    "nairobiInfra": "Infrastructure de Nairobi",
+    "exploreDocs": "Explorer la documentation"
+  },
+  "architecture": {
+    "title": "Couches de Service Helloopass : Une Analyse Simple",
+    "subtitle": "Helloopass trading OS fonctionne sur une plateforme flexible et modulaire qui peut être déployée de différentes manières selon les besoins du client. Pensez-y comme à un ensemble de briques LEGO—les clients peuvent prendre une seule brique ou en combiner plusieurs pour construire leur solution complète.",
+    "legoPrinciple": "Le Principe Lego",
+    "flexibilityTitle": "Conçu pour la Flexibilité",
+    "flexibilityDesc": "Chaque composant de l'écosystème HellOOpass est conçu pour être modulaire, garantissant que votre architecture financière peut évoluer aussi vite que votre communauté.",
+    "choosingLayer": "Choisir la Bonne Couche",
+    "summaryTable": "Tableau Récapitulatif",
+    "modularityTitle": "Le Principe Clé : Modularité",
+    "modularityDesc": "La caractéristique la plus puissante de Helloopass est que les clients peuvent mélanger ces couches. Une coopérative peut commencer par le pôle commercial, puis ajouter le bouclier de conformitée et enfin utiliser le moteur central pour offrir des comptes d'épargne aux membres.",
+    "exploreLayers": "Explorer les couches",
+    "systemOverview": "Aperçu du système",
+    "scaleCapabilities": "La flexibilité de notre plateforme vous permet de choisir exactement ce dont vous avez besoin aujourd'hui, avec l'assurance de pouvoir évoluer vers des capacités bancaires complètes demain.",
+    "summary": {
+      "layer": "Couche",
+      "bestFor": "Idéal pour",
+      "youGet": "Vous obtenez",
+      "youProvide": "Vous fournissez"
+    },
+    "layers": {
+      "core": {
+        "title": "Couche 1 : Le Moteur Bancaire Central (La Salle des Machines)",
+        "desc": "La technologie fondamentale qui gère les comptes financiers, traite les transactions et gère les registres.",
+        "analogy": "Comme le moteur d'une voiture. Le client fournit la carrosserie et la marque, Helloopass fournit le moteur qui la fait avancer."
+      },
+      "compliance": {
+        "title": "Couche 2 : Le Bouclier de Conformité et Réglementaire (Le Filet de Sécurité)",
+        "desc": "Outils pré-construits qui gèrent automatiquement le KYC, l'AML, la détection des fraudes et les rapports réglementaires.",
+        "analogy": "Comme avoir un agent de sécurité et un avocat intégrés qui vérifient tout constamment et vous évitent les ennuis."
+      },
+      "embedded": {
+        "title": "Couche 3 : La Couche de Finance Intégrée (La Boîte à Outils)",
+        "desc": "Un ensemble d'API qui permettent aux entreprises d'intègre des services financiers directement dans leurs propres applications.",
+        "analogy": "Comme un restaurant ajoutant un terminal de paiement—ils ne construisent pas le système, ils le branchent simplement."
+      },
+      "trade": {
+        "title": "Couche 4 : Le Pôle Commercial et de Place de Marché (Le Marché Communautaire)",
+        "desc": "Une solution de place de marché numérique complète combinant commerce, paiements, logistique et financement communautaire.",
+        "analogy": "Comme construire un marché de village numérique où les gens peuvent vendre, acheter, payer en toute sécurité et accéder à des prêts."
+      },
+      "whiteLabel": {
+        "title": "Couche 5 : Trading Numérique (Trade-In-a-Box)",
+        "desc": "Une banque numérique ou un portefeuille complet, prêt à être lancé, portant la marque du client mais fonctionnant sur la technologie Helloopass.",
+        "analogy": "Comme un restaurant en franchise. Vous recevez tout le pack—recettes, équipement, formation—et mettez votre nom sur la porte."
+      }
+    }
+  },
+  "communities": {
+    "badge": "Écosystèmes Vérifiés",
+    "title": "Chaque Collectif",
+    "desc": "HellOOpass n'est pas seulement une plateforme ; c'est une fondation pour des économies spécialisées conçues par et pour les personnes qui les vivent.",
+    "ctaTitle": "Prêt à créer votre propre réseau communautaire ?",
+    "ctaDesc": "Commencez avec la Magic Trade Box et regardez la puissance économique de votre communauté croître grâce à la confiance, la transparence et la valeur partagée.",
+    "launchButton": "Lancer ma communauté",
+    "speakArchitect": "Parler à un Architecte",
+    "labels": {
+      "theCommunity": "La Communauté",
+      "howItWorks": "Comment ça marche avec le MTB",
+      "empowerment": "Autonomisation et interconnexion communautaire"
+    },
+    "items": {
+      "farmers": {
+        "title": "La Coopérative des Agriculteurs Durables",
+        "desc": "Une coopérative de 500 petits agriculteurs bio cherchant à supprimer les intermédiaires, assurer des prix justes et accéder au crédit.",
+        "howItWorks": "La coopérative lance son marché 'De la Ferme à la Table'. Les clients scannent un QR code pour payer sans frais de transaction.",
+        "empowerment": "Les agriculteurs peuvent publier des demandes de fonds pour les semences. Les membres utilisent leurs bonus pour les soutenir."
+      },
+      "taxi": {
+        "title": "Le Fonds d'Actifs Collectif",
+        "desc": "Un groupe social ou familial étroit dont les membres veulent mutualiser des ressources pour créer des actifs de vie pour l'un des leurs.",
+        "howItWorks": "Les membres créent un 'Fonds d'Actifs Familiaux'. Ils effectuent des dépôts sans frais dans un portefeuille numérique partagé.",
+        "empowerment": "Le fonds collectif fournit la garantie pour un prêt de véhicule. Les remboursements sont automatisés via la plateforme."
+      },
+      "gig": {
+        "title": "Le Collectif des Travailleurs de l'Économie à la Tâche",
+        "desc": "Un collectif de chauffeurs et livreurs indépendants dans une grande ville, manquant d'accès aux services financiers traditionnels.",
+        "howItWorks": "Le collectif forme un réseau 'Union des Travailleurs'. Les membres reçoivent un portefeuille et une carte virtuelle.",
+        "empowerment": "Un chauffeur ayant besoin d'une réparation peut publier une demande. Les autres membres le soutiennent avec leurs bonus gratuits."
+      },
+      "diaspora": {
+        "title": "Le Réseau de Soutien de la Diaspora",
+        "desc": "Une communauté de la diaspora voulant soutenir les familles et les entreprises du pays d'origine avec des transferts sécurisés.",
+        "howItWorks": "La communauté crée un réseau 'Soutien à la Patrie'. Les membres chargent des fonds et achètent des cartes cadeaux ciblées.",
+        "empowerment": "Les destinataires utilisent les cartes chez les marchands approuvés. Chaque transaction génère un bonus de soutien communautaire."
+      },
+      "arts": {
+        "title": "La Guilde des Arts et de l'Artisanat Culturel",
+        "desc": "Une communauté autochtone d'artisans dont l'artisanat traditionnel est sous-évalué, avec des profits perdus chez les intermédiaires.",
+        "howItWorks": "La guilde installe sa place de marché 'Heritage Makers'. Les acheteurs paient directement l'artisan sans frais ajoutés.",
+        "empowerment": "Les acheteurs utilisent leurs bonus pour soutenir les demandes de matériaux des artisans, partageant les profits des commandes."
+      },
+      "aid": {
+        "title": "Le Corridor d'Aide Humanitaire",
+        "desc": "Une ONG internationale distribuant de l'aide dans un camp de réfugiés, visant l'efficacité, la transparence et la stimulation locale.",
+        "howItWorks": "L'ONG crée un réseau 'Aide & Dignité'. L'aide est distribuée sous forme de bons numériques échangeables dans les kiosques locaux.",
+        "empowerment": "Les petites entreprises peuvent publier des demandes de micro-crédits soutenues par les bénéficiaires via leurs bonus accumulés."
+      }
+    }
+  },
+  "communityTrading": {
+    "badge": "Infrastructure pour l'Indépendance",
+    "title": "Votre Propre Réseau de Commerce Communautaire",
+    "desc": "Helloopass fournit l'infrastructure technologique que les communautés utilisent pour gérer leurs propres écosystèmes commerciaux en boucle fermée. Chaque communauté fonctionne de manière indépendante, avec ses propres membres, marchands et règles.",
+    "coreConcept": "Le Concept Fondamental",
+    "coreConceptDesc": "Helloopass ne possède pas les communautés ; elle les autonomise avec une technologie financière de qualité professionnelle.",
+    "completeFlow": "Le Flux Complet",
+    "completeFlowDesc": "Suivez le parcours de la valeur depuis l'adoption par la communauté jusqu'au règlement par le marchand.",
+    "multipleCommunities": "Plusieurs Communautés, Une Seule Plateforme",
+    "multipleCommunitiesDesc": "Helloopass peut propulser des centaines de communautés indépendantes simultanément. Chacune est un écosystème séparé en boucle fermée.",
+    "realWorldExample": "Exemple Réel",
+    "designPrinciples": "Principes de Conception",
+    "whatWeProvide": "Ce que nous fournissons",
+    "whatWeProvideDesc": "Helloopass est le partenaire d'infrastructure de bout en bout pour votre économie communautaire.",
+    "ctaTitle": "Prêt à numériser votre communauté ?",
+    "ctaDesc": "Construisez votre propre écosystème de commerce numérique de manière sécurisée et efficace avec l'infrastructure Helloopass.",
+    "engine": "Le Moteur",
+    "engineDesc": "Helloopass alimente la technologie de base et la conformité.",
+    "vehicle": "Le Véhicule",
+    "vehicleDesc": "Les communautés possèdent leur marque, leurs membres et la confiance locale.",
+    "trader": "Commerçant communautaire",
+    "whiteLabeled": "Marque blanche",
+    "whiteLabeledDesc": "Chaque groupe possède sa propre plateforme et son identité de marque.",
+    "independent": "Indépendant",
+    "independentDesc": "Les communautés intègrent leurs propres membres et marchands.",
+    "infrastructure": "Infrastructure",
+    "infrastructureDesc": "Nous fournissons les rails de traitement des paiements et de règlement.",
+    "closedLoop": "Boucle fermée",
+    "closedLoopDesc": "La confiance et la valeur restent au sein de l'écosystème communautaire local.",
+    "threeCommunities": "Trois communautés, une plateforme Helloopass",
+    "table": {
+      "community": "Communauté",
+      "type": "Type",
+      "members": "Membres",
+      "merchants": "Marchands",
+      "uniqueFeature": "Caractéristique unique"
+    }
+  },
+  "connectCommunities": {
+    "badge": "Moteur de Connectivité",
+    "title": "CONNECTIVITÉ COMMUNAUTAIRE",
+    "desc": "Les communautés sur HellOOpass sont des nœuds autonomes qui peuvent choisir de se connecter à d'autres communautés pour étendre les opportunités commerciales tout en maintenant leur propre gouvernance.",
+    "bilateral": "Accords bilatéraux",
+    "bilateralDesc": "Deux communautés doivent toutes deux accepter de se connecter.",
+    "control": "Contrôle communautaire",
+    "controlDesc": "Chaque communauté décide avec qui elle se connecte et selon quels termes.",
+    "noLimits": "Aucune limite technique",
+    "noLimitsDesc": "Une communauté peut se connecter avec 1 ou plus de 1 000 autres communautés.",
+    "openOption": "Option totalement ouverte",
+    "openOptionDesc": "Une communauté peut accueillir des membres de n'importe quelle communauté mondiale.",
+    "scenario": "Scénario réel",
+    "chadTitle": "BÉTAIL DU TCHAD VERS LA",
+    "ivoryCoast": "VIANDE DE CÔTE D'IVOIRE",
+    "result": "RÉSULTAT : COMMERCE TRANSFRONTALIER DIRECT ET SÉCURISÉ AU PROFIT DES DEUX COMMUNAUTÉS.",
+    "typesTitle": "Types de connexions",
+    "possible": "CE QUI DEVIENT POSSIBLE",
+    "governance": "Gouvernance & Sécurité",
+    "governanceTitle": "HOW LES CONNEXIONS SONT GÉRÉES",
+    "governanceDesc": "Lorsque les communautés se connectent, elles conviennent d'un ensemble de règles automatisées appliquées par la plateforme.",
+    "vision": "LA VISION",
+    "visionQuote": "HellOOpass ne construit pas une place de marché géante. Elle aide des milliers de communautés à construire des ponts entre leurs marchés.",
+    "visionDesc": "Des coopératives villageoises aux réseaux commerciaux continentaux—les communautés choisissent leurs connexions et construisent collectivement un écosystème panafricain."
+  },
+  "economicCells": {
+    "badge": "Architecture Système",
+    "title": "Système de Cellules Économiques Distribuées",
+    "desc": "Le système mondial de cellules économiques est le fondement de notre économie décentralisée, où chaque participant est une partie vitale d'un réseau auto-suffisant.",
+    "illustration1": "Votre Passeport Cellulaire Numérique",
+    "illustration2": "Connectivité Économique Mondiale",
+    "ctaTitle": "Rejoindre l'Économie Mondiale",
+    "ctaDesc": "Le système de cellules économiques mondiales est votre porte d'entrée vers un monde de commerce sans frontières et de prospérité communautaire.",
+    "activateCell": "Activer votre cellule",
+    "ill1Label": "Illustration 01",
+    "ill2Label": "Illustration 02",
+    "cells": {
+      "c1": { "title": "Vous êtes une cellule de l'économie mondiale", "desc": "Votre identité et votre activité économique sont liées à votre 'cellule' numérique, votre passeport dans ce système." },
+      "c2": { "title": "Portefeuille automatique pour chaque cellule", "desc": "Chaque cellule est dotée d'un portefeuille numérique par défaut pour les transactions." },
+      "c3": { "title": "Financement du portefeuille en temps réel", "desc": "Ajoutez des fonds instantanément avec n'importe quelle méthode de paiement reconnue, sans restrictions." },
+      "c4": { "title": "Le Stablecoin peut garantir les crédits", "desc": "Tous les crédits du portefeuille sont garantis par un stablecoin du pays d'ouverture du compte." },
+      "c5": { "title": "Vendez librement biens et services", "desc": "Les cellules peuvent ouvrir des boutiques et commercer selon les règles de licence de leur pays choisi." },
+      "c6": { "title": "Portefeuilles de gains pour les boutiques", "desc": "Chaque boutique dispose d'un portefeuille dédié pour collecter les revenus des ventes." },
+      "c7": { "title": "Liez vos gains à vos comptes bancaires", "desc": "Vous pouvez connecter votre portefeuille de gains à vos comptes bancaires préférés." },
+      "c8": { "title": "Retrait d'argent instantané", "desc": "Convertissez vos crédits en espèces en un clic ; le montant est transféré à votre banque." },
+      "c9": { "title": "Créez et gerez des communautés", "desc": "Les cellules peuvent former des groupes, fixer des règles commerciales et communiquer légalement." },
+      "c10": { "title": "Communication multilingue fluide", "desc": "L'IA traduit instantanément les messages pour que les cellules interagissent dans n'importe quelle langue." },
+      "c11": { "title": "Intégrez des plateformes externes", "desc": "Les cellules peuvent connecter leurs outils numériques, en respectant les politiques du système." },
+      "c12": { "title": "Solutions de paiement personnalisées", "desc": "Les communautés peuvent créer des comptes séquestres et offrir des conditions de paiement flexibles." },
+      "c13": { "title": "Intégration bancaire et institutionnelle", "desc": "Toutes les transactions en espèces passent par des comptes séquestres réglementés." },
+      "c14": { "title": "Conformité réglementaire totale", "desc": "Chaque transaction respecte les lois des pays impliqués." }
+    }
+  },
+  "footer": {
+    "tagline": "La prochaine génération d'infrastructure de règlement pour les communautés modernes et le commerce transfrontalier.",
+    "platform": "Plateforme",
+    "company": "Entreprise",
+    "stayUpdated": "Restez à jour",
+    "rights": "Tous droits réservés.",
+    "privacy": "Politique de confidentialité",
+    "terms": "Conditions d'utilisation",
+    "security": "Sécurité",
+    "links": {
+      "clearing": "Chambre de compensation",
+      "compliance": "Moteurs de conformité",
+      "fx": "Liquidité FX",
+      "docs": "Documentation API",
+      "about": "À propos",
+      "careers": "Carrières",
+      "press": "Presse",
+      "contact": "Contact"
+    }
+  },
+  "architectureDiagram": {
+    "title": "Infrastructure Visualization",
+    "subtitle": "Comment les données circulent dans la couche de chambre de compensation",
+    "crossBorder": "TRANSFRONTALIER",
+    "interCommunity": "INTER-COMMUNAUTAIRE",
+    "intraCommunity": "INTRA-COMMUNAUTAIRE",
+    "globalHub": "Hub de compensation mondial",
+    "domesticNode": "Nœud national",
+    "localLedger": "Livre communautaire local",
+    "stats": {
+      "speed": "Vitesse de traitement",
+      "uptime": "SLA de disponibilité",
+      "reach": "Portée mondiale",
+      "security": "Niveau de sécurité"
+    }
+  },
+  "settlementLogic": {
+    "title": "Crédit en temps réel,",
+    "subtitle": "Règlement flexible.",
+    "desc": "Nous séparons la disponibilité du crédit du mouvement fiduciaire pour offrir le meilleur des deux mondes : liquidité immédiate et contrôle opérationnel.",
+    "realTime": "Règlement de crédit en temps réel",
+    "realTimeDesc": "À toutes les couches, le crédit est réglé instantanément. Les fonds sont utilisables immédiatement dès l'autorisation de la transaction.",
+    "flexible": "Paiements fiduciaires flexibles",
+    "flexibleDesc": "Le mouvement réel de la monnaie physique peut être configuré pour se produire à des moments programmés ou à la demande.",
+    "config": "Configuration du règlement",
+    "velocity": "Vélocité actuelle de l'écosystème"
+  },
+  "partnership": {
+    "title": "Construire l'avenir du commerce africain, ensemble",
+    "subtitle": "Helloopass trading OS fonctionne sur une plateforme flexible et modulaire qui peut être déployée de différentes manières selon les besoins du client.",
+    "ready": "Prêt à lancer votre économie ?",
+    "talk": "Parler à un spécialiste des partenariats",
+    "layers": {
+      "community": {
+        "location": "Congo Brazzaville",
+        "title": "Chefs de communauté",
+        "subtitle": "Autonomisez votre écosystème local.",
+        "desc": "Guidez votre communauté vers la souveraineté économique avec nos outils spécialisés pour le commerce local et la croissance collective."
+      },
+      "developer": {
+        "location": "Kenya",
+        "title": "Développeurs africains",
+        "subtitle": "Construisez la prochaine génération de Fintech.",
+        "desc": "Accédez à nos API et infrastructures robustes pour créer des applications puissantes adaptées au marché africain."
+      },
+      "finance": {
+        "location": "Moyen-Orient",
+        "title": "Institutions financières",
+        "subtitle": "Faites le pont entre finance traditionnelle et numérique.",
+        "desc": "Associez-vous à nous pour offrir des services bancaires numériques innovants et atteindre efficacement les marchés mal desservis."
+      },
+      "gateway": {
+        "location": "Global",
+        "title": "Passerelles de paiement",
+        "subtitle": "Élargissez votre portée au-delà des frontières.",
+        "desc": "Connectez-vous à notre réseau panafricain pour fournir des solutions de paiement transfrontalières fluides."
+      },
+      "investor": {
+        "location": "Zimbabwe",
+        "title": "Investisseurs stratégiques",
+        "subtitle": "Alimenter une croissance durable.",
+        "desc": "Joignez-vous à nous pour soutenir l'infrastructure qui récupère l'économie de la communauté à travers le continent."
+      },
+      "franchise": {
+        "location": "Burkina Faso",
+        "title": "Partenaires franchisés",
+        "subtitle": "Déployez une couche éprouvée.",
+        "desc": "Apportez l'écosystème Magic Trade Box à de nouvelles régions avec notre pack complet de support et de technologie pour les franchisés."
+      }
+    }
+  }
+}
